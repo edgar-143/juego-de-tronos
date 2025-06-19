@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1750093962 source:c:\users\edgar\documents\c++\programacion\tp programacion gtov4\juego de tronos\main.cpp
+	"inicio de juego.h"
+	"estadisticas_casa.h"
+
+1750289180 source:c:\users\edgar\documents\c++\programacion\tp programacion gtov4\juego de tronos\estadisticas_casa.cpp
+	<iostream>
+	"estadisticas_casa.h"
+
+1749948559 c:\users\edgar\documents\c++\programacion\tp programacion gtov4\juego de tronos\estadisticas_casa.h
+
+1750093720 c:\users\edgar\documents\c++\programacion\tp programacion gtov4\juego de tronos\inicio de juego.h
+	<string>
+
+1750292847 source:c:\users\edgar\documents\c++\programacion\tp programacion gtov4\juego de tronos\inicio de juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"inicio de juego.h"
+	"estadisticas_casa.h"
+
