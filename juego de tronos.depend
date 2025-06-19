@@ -19,3 +19,16 @@
 	"inicio de juego.h"
 	"estadisticas_casa.h"
 
+1750347984 source:c:\users\edgar\documents\c++\programaciongto\juego-de-tronos\estadisticas_casa.cpp
+	<iostream>
+	"estadisticas_casa.h"
+
+1750347984 c:\users\edgar\documents\c++\programaciongto\juego-de-tronos\estadisticas_casa.h
+
+1750347984 source:c:\users\edgar\documents\c++\programaciongto\juego-de-tronos\main.cpp
+	"inicio de juego.h"
+	"estadisticas_casa.h"
+
+1750347984 c:\users\edgar\documents\c++\programaciongto\juego-de-tronos\inicio de juego.h
+	<string>
+
