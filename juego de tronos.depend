@@ -32,3 +32,10 @@
 1750347984 c:\users\edgar\documents\c++\programaciongto\juego-de-tronos\inicio de juego.h
 	<string>
 
+1750544036 source:c:\users\edgar\documents\c++\programaciongto\juego-de-tronos\inicio de juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"inicio de juego.h"
+	"estadisticas_casa.h"
+

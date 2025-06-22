@@ -250,6 +250,7 @@ void ejecutarJuego()
                         estadisticas[2]=estadisticas[2]+15000;
                         recompensa_habilidad=15000;
                         estadisticas[3]=0;
+                        cout<<probabilidad<<"\n";
                         system("pause");
                         system("cls");
                         break;
@@ -523,8 +524,9 @@ void ejecutarJuego()
 
 
             }
-            else if(estadisticas[2]=0 and estadisticas[3]<estadisticas[4]){
-                cout<<"no tienes suficiente dinero para combatir ni alimentar a todos tus soldados";
+            else if(estadisticas[2]==0 && estadisticas[3]<estadisticas[4]){
+                    system("cls");
+                cout<<"no tienes suficiente oro para combatir ni alimentar a todos tus soldados\n";
                 continuar=false;
             }
 
